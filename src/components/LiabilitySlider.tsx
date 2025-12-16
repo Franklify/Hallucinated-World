@@ -7,7 +7,7 @@ export default function LiabilitySlider() {
 
   return (
     <div className="my-12 p-6 bg-gray-50 border border-gray-200 rounded-lg not-prose">
-      <h4 className="font-sans font-bold text-lg mb-4">Interactive: The Liability Shift</h4>
+      <h4 className="font-sans font-bold text-gray-600 text-lg mb-4">Interactive: The Liability Shift</h4>
       <p className="text-sm text-gray-600 mb-6">
         Drag to see who pays for the accident based on the legal standard.
       </p>
