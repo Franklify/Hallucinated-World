@@ -60,14 +60,14 @@ export default function Home() {
           <h3>From "Black Box" to "Black World"</h3>
           
           <p>
-            The central legal challenge of the last decade has been the "Black Box" problem—the inability to understand 
+            The central legal challenge of the last decade has been the "Black Box" problem, or the inability to understand 
             the internal decision-making logic of neural networks. With Genie 3, this 
             problem has metastasized. We are no longer just asking why an algorithm denied a loan; we are asking why 
             an algorithm decided that a specific bridge would hold weight or that a car would stop on ice.
           </p>
 
           <p>
-            As Cynthia Rudin and Brandon Garrett argue, high-stakes AI decisions require "interpretability"—the ability 
+            As Cynthia Rudin and Brandon Garrett argue, high-stakes AI decisions require "interpretability", the ability 
             to trace the cause of a decision. Genie 3, trained on millions of hours of unlabelled video from the open 
             web, offers none. It learns physics not by equations, but by <em>observation</em>. This creates a "Black World" 
             where the laws of physics are statistical probabilities rather than absolute constants.
@@ -76,7 +76,7 @@ export default function Home() {
           <h3>The Accountability Gap</h3>
 
           <p>
-            This essay argues that current accountability frameworks—specifically Tort Law and Administrative Law—are 
+            This essay argues that current accountability frameworks are 
             ill-equipped for "World Models." We are facing what Rebecca Crootof describes as an "accountability gap," 
             where the unique properties of autonomous systems allow developers to evade liability for "emergent errors" 
            .
@@ -89,7 +89,7 @@ export default function Home() {
 
           <p>
             The law currently incentivizes a dangerous shifting of blame. As Ben Green and Madeline Elish observe, we 
-            have created "Moral Crumple Zones"—human operators kept in the loop not to provide meaningful control, but 
+            have created "Moral Crumple Zones": human operators kept in the loop not to provide meaningful control, but 
             to absorb legal liability when the system fails. In the context of Genie 3, 
             the engineer relying on the simulation becomes the crumple zone for Google’s black box.
           </p>
@@ -100,7 +100,7 @@ export default function Home() {
           <h2 id="inputs">II. The "Input" Problem: Scrutinizing the Training Data</h2>
 
           <p>
-            Before we analyze the output of Genie 3, we must—as we learned in Unit 1 of this course—scrutinize the 
+            Before we analyze the output of Genie 3, we must scrutinize the 
             <strong>inputs</strong>. A model is only as robust as the data it consumes.
           </p>
 
@@ -176,7 +176,7 @@ export default function Home() {
 
           <p>
             As we automate complex tasks, we paradoxically increase the pressure on human operators to monitor systems 
-            they cannot fully understand. Ben Green and others describe this as the "Moral Crumple Zone"—where a human 
+            they cannot fully understand. Ben Green and others describe this as the "Moral Crumple Zone", where a human 
             is kept in the loop primarily to absorb legal liability rather than to provide meaningful control 
            .
           </p>
@@ -219,7 +219,7 @@ export default function Home() {
           <h2 id="regulation">IV. Regulating the Reality Engine</h2>
 
           <p>
-            If tort law is a reactive shield—compensating victims after a crash—we need a proactive sword to prevent the 
+            If tort law is a reactive shield we need a proactive sword to prevent the 
             crash in the first place. The syllabus asks: <em>How do we align AI to human values?</em> For Genie 3, 
             alignment requires two specific regulatory interventions: mandatory interpretability and a rethinking of 
             "fairness" in data acquisition.
@@ -228,7 +228,7 @@ export default function Home() {
           <h3>The "Glass Box" Mandate</h3>
 
           <p>
-            Current regulatory proposals often focus on "disclosure"—requiring companies to reveal <em>what</em> data 
+            Current regulatory proposals often focus on "disclosure", or requiring companies to reveal <em>what</em> data 
             they used. However, as Christopher Yoo argues, simple transparency is often a red herring; algorithmic 
             disclosures can be too complex for regulators to parse or too vague to be useful.
           </p>
@@ -236,7 +236,7 @@ export default function Home() {
           <p>
             For a World Model like Genie 3, knowing <em>that</em> it was trained on YouTube videos is insufficient. We 
             need to know <em>how</em> it processes physics. Garrett and Rudin argue that for high-stakes decisions, we 
-            must abandon "Black Box" models in favor of "Glass Box" models—systems designed to be interpretable from the 
+            must abandon "Black Box" models in favor of "Glass Box" models, systems designed to be interpretable from the 
             ground up.
           </p>
 
@@ -258,7 +258,7 @@ export default function Home() {
           <p>
             If courts rule that uncompensated training is copyright infringement, Google would be forced to curate 
             "clean" datasets. This creates an opportunity: "Clean" datasets are smaller, better labeled, and more 
-            interpretable. By enforcing copyright, we might accidentally solve the "Black Box" problem—forcing developers 
+            interpretable. By enforcing copyright, we might accidentally solve the "Black Box" problem, forcing developers 
             to build models on known, verified data rather than the chaotic open web.
           </p>
 
@@ -266,7 +266,7 @@ export default function Home() {
           <h2 id="conclusion">V. Conclusion: Governing the Hallucinated Future</h2>
 
           <p>
-            In the early days of AI law—back in 2023—we worried about chatbots lying to lawyers. Today, with the advent 
+            In the early days of AI law, we worried about chatbots lying to lawyers. Today, with the advent 
             of Google’s Genie 3, we face a far profounder risk: AI lying to the physical world.
           </p>
 
@@ -284,7 +284,7 @@ export default function Home() {
           </p>
 
           <p>
-            We are standing on the precipice of a "Hallucinated Future"—where our rescue robots, autonomous cars, and 
+            We are standing on the precipice of a "Hallucinated Future", where our rescue robots, autonomous cars, and 
             urban planning rely on a digital foundation that may be fundamentally flawed. If the law continues to treat 
             these hallucinations as "glitches" rather than "defects," we are building our future on quicksand.
           </p>
